@@ -13,4 +13,4 @@ The feature of the random choice can suggest one film among hundreds of popular 
 Separated Components, React hooks, API-requests etc.
 
 
- - [DEMO LINK](https://paulvoron.github.io/kinolib/#/films)
+ - [DEMO LINK](https://paulvoron.github.io/kinotest/#/films)
